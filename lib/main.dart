@@ -1,4 +1,4 @@
-import 'package:celiceo0333/pages/edit_name_page.dart';
+8import 'package:celiceo0333/pages/edit_name_page.dart';
 import 'package:celiceo0333/pages/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
